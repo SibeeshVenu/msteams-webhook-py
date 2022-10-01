@@ -1,0 +1,3 @@
+pymsteams[async]
+azure-identity
+azure-keyvault-secrets
